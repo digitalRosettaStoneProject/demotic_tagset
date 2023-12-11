@@ -1,0 +1,15 @@
+{
+  "plugins": {
+    "morph": {
+      "retrievers": {
+        "BspMorphRetriever": {
+          "resource": "newMorphologyServiceDem"
+        }
+      },
+      "@include": "arethusa.morph_demotic_attributes_pos.json"
+    },
+    "relation": {
+      "@include": "arethusa.relation_demotic.json"
+    }
+  }
+}

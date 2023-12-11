@@ -1,0 +1,126 @@
+{
+  "relations" : {
+    "labels" : {
+      "MnVb" : {
+        "long" : "main verb",
+        "short" : "MnVb"
+      },
+      "AUX" : {
+        "long" : "auxiliary verb",
+        "short" : "AUX"
+      },
+      "PRED" : {
+        "long" : "predicate",
+        "short" : "PRED"
+      },
+      "SBJ" : {
+        "long" : "subject",
+        "short" : "SBJ"
+      },
+      "OBJ" : {
+        "long" : "object",
+        "short" : "OBJ"
+      },
+      "DirObj" : {
+        "long" : "direct object",
+        "short" : "DirObj"
+      },
+      "IndObj" : {
+        "long" : "indirect object",
+        "short" : "IndObj"
+      },
+      "Attr" : {
+        "long" : "attribute",
+        "short" : "Attr"
+      },
+      "Apos" : {
+        "long" : "apposition",
+        "short" : "Apos"
+      },
+      "Lmt" : {
+        "long" : "limitation",
+        "short" : "Lmt"
+      },
+      "Disj" : {
+        "long" : "disjunction",
+        "short" : "Disj"
+      },
+      "Gen" : {
+        "long" : "genitive",
+        "short" : "Gen"
+      },
+      "Adv" : {
+        "long" : "adverb",
+        "short" : "Adv"
+      },
+      "Ptcl" : {
+        "long" : "particle",
+        "short" : "Ptcl"
+      },
+      "Neg" : {
+        "long" : "negation",
+        "short" : "Neg"
+      },
+      "Cop" : {
+        "long" : "copula",
+        "short" : "Cop"
+      },
+      "Coord" : {
+        "long" : "coordinator",
+        "short" : "Coord"
+      },
+      "SubConj" : {
+        "long" : "subordinating conjunction",
+        "short" : "SubConj"
+      },
+      "ClConj" : {
+        "long" : "clause conjugation",
+        "short" : "ClConj"
+      },
+      "Conv" : {
+        "long" : "converter",
+        "short" : "Conv"
+      },
+      "BaseVb" : {
+        "long" : "base verbal",
+        "short" : "BaseVb"
+      },
+      "BaseConj" : {
+        "long" : "base conjugation",
+        "short" : "BaseConj"
+      },
+      "PrVb" : {
+        "long" : "predicate verbal",
+        "short" : "PrVb"
+      },
+      "PrNom" : {
+        "long" : "predicate nominal",
+        "short" : "PrNom"
+      },
+      "PrAdv" : {
+        "long" : "predicate adverbial",
+        "short" : "PrAdv"
+      },
+      "SntVb" : {
+        "long" : "sentence verbal",
+        "short" : "SntVb"
+      },
+      "SntNom" : {
+        "long" : "sentence nominal",
+        "short" : "SntNom"
+      },
+      "SntAdv" : {
+        "long" : "sentence adverbial",
+        "short" : "SntAdv"
+      },
+      "SntExp" : {
+        "long" : "sentence existencial/possessive",
+        "short" : "SntExp"
+      },
+      "SntNeg" : {
+        "long" : "sentence negative",
+        "short" : "SntNeg"
+      }
+    }
+  }
+}
