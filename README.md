@@ -1,4 +1,4 @@
-# How to treebank Demotic with Arethusa Treebanking Editor (© Perseids) – A short Introduction
+#Demotic Treebanking
 By Josephine Hensel from the Digital Rosetta Stone Team
 
 Welcome to Demotic Treebanking with Arethusa!
