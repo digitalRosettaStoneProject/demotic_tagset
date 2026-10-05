@@ -1,5 +1,4 @@
-# demotic_tagset
-Demotic tagset
+# Demotic tagset
 ## How to treebank Demotic with Arethusa Treebanking Editor (© Perseids) – A short Introduction
 By Josephine Hensel from the Digital Rosetta Stone Team
 
