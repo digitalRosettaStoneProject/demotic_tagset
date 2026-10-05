@@ -1,4 +1,4 @@
-#Demotic Treebanking
+# Demotic Treebanking
 
 By Josephine Hensel from the Digital Rosetta Stone Team
 
