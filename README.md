@@ -1,4 +1,5 @@
 #Demotic Treebanking
+
 By Josephine Hensel from the Digital Rosetta Stone Team
 
 Welcome to Demotic Treebanking with Arethusa!
