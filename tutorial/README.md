@@ -150,7 +150,7 @@ With the button **Create new form**, you assign a word category and associated f
 ![Fig. 10](images/image14.png)
 *Fig. 10*
 
-Edit every single word in this way. Words that appear multiple times do not need to be determined again: Arethusa displays suggestions based on the saved entries.[^translation] An overview of all available word categories and their features can be found **here [insert PDF file]**. To avoid clicking on every word, you can use the keys “w” and “e” to navigate forward and backward. Once all words have been morphologically identified, the sentence appears with multiple colors. Words that have not been identified remain black (Fig. 11).
+Edit every single word in this way. Words that appear multiple times do not need to be determined again: Arethusa displays suggestions based on the saved entries.[^translation] An overview of all available word categories and their features can be found [**here**](tutorial/Morphology tagset_final.pdf). To avoid clicking on every word, you can use the keys “w” and “e” to navigate forward and backward. Once all words have been morphologically identified, the sentence appears with multiple colors. Words that have not been identified remain black (Fig. 11).
 
 ![Fig. 11](images/image15.png)
 *Fig. 11*
