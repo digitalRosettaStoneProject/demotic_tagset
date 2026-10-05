@@ -150,7 +150,7 @@ With the button **Create new form**, you assign a word category and associated f
 ![Fig. 10](images/image14.png)
 *Fig. 10*
 
-Edit every single word in this way. Words that appear multiple times do not need to be determined again: Arethusa displays suggestions based on the saved entries.[^translation] An overview of all available word categories and their features can be found [here](Morphology tagset_final.pdf). To avoid clicking on every word, you can use the keys “w” and “e” to navigate forward and backward. Once all words have been morphologically identified, the sentence appears with multiple colors. Words that have not been identified remain black (Fig. 11).
+Edit every single word in this way. Words that appear multiple times do not need to be determined again: Arethusa displays suggestions based on the saved entries.[^translation] An overview of all available word categories and their features can be found **[here](Morphology_tagset_final.pdf)**. To avoid clicking on every word, you can use the keys “w” and “e” to navigate forward and backward. Once all words have been morphologically identified, the sentence appears with multiple colors. Words that have not been identified remain black (Fig. 11).
 
 ![Fig. 11](images/image15.png)
 *Fig. 11*
@@ -169,7 +169,7 @@ The next step is to determine the syntactic roles of the sentence constituents. 
 
 Switch to the **relation-**mode in the menu bar at the top right and select the first word in the sentence. On the right, click the button under the word (Fig. 12).
 
-Select the appropriate function from the list. Some sentence constituents can be specified in more detail; these are marked with a small triangle. A list of all available relations, including explanations of the abbreviations, can be found **here [insert PDF file]**.
+Select the appropriate function from the list. Some sentence constituents can be specified in more detail; these are marked with a small triangle. A list of all available relations, including explanations of the abbreviations, can be found **[here](Relation_tagset_final.pdf)**.
 
 If a function cannot be identified, please select “---”. **Save** the changes via the main menu in the upper right corner (first icon on the left).
 
